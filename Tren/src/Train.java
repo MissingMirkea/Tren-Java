@@ -56,3 +56,6 @@ public class Train {
 
     }
 }
+
+//TODO Crearea metodei toString()
+//TODO Adauga constructori dintre setType(), getType(),în clasa Train
